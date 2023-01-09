@@ -16,7 +16,7 @@
 | 0.7.1                            | 0.9.3                                             |
 | 0.7.0 (Baseline Version)         | 0.9.3-draft                                       |
 
-Decentralized Health Protocol (DHP) is an ambitions open source  project that aims to define interoperable protocol specifications for creating decentralized network of health and wellness services including tele consultation and various other services. 
+Decentralized Health Protocol (DHP) is an ambitious open source  project that aims to define interoperable protocol specifications for creating decentralized network of health and wellness services including tele consultation and various other services. 
 
 DHP architecture allows someone to setup an open network of consumer side applications and provide side platforms using common protocol specifications. DHP is maintained by the open source community to create API specifications, schemas and taxonomy for health and wellness domain. 
 
